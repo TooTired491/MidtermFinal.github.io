@@ -1,2 +1,2 @@
-# MidtermFinal.github.io
-Final Midterm Project
+# GD107Midterm1
+ Midterm Project
